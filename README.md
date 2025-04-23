@@ -34,7 +34,14 @@ This project focuses on forecasting monthly wine sales for two product categorie
 - SARIMA model showed best forecasting performance for Sparkling wine based on AIC/BIC scores.
 - Red wine sales were more stable and linear, best modeled using Exponential Smoothing.
 
+
 ---
+
+## 👩‍💻 Author
+
+**Amneh Mohammad Ibrahim Ghanem**  
+Master’s in Data Science – Deakin University  
+[LinkedIn](https://www.linkedin.com/in/amneh-m) | [GitHub](https://github.com/amneh992)
 
 
 
